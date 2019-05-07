@@ -22,4 +22,5 @@ Simple clock app that is larger than the windows default. Customisations (font c
   
 <br>**_Known Issues_**<br>
 *-User must launch the app with nothing on the screen when using translucent or transparent mode*<br>
-*-Text is not anti-aliased in transparent mode (limitation of windows form apps)*
+*-Text is not anti-aliased in transparent mode (limitation of windows form apps)*<br>
+*-Cannot be shifted when in translucent or transparent mode*
