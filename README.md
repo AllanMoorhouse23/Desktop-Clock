@@ -5,7 +5,7 @@
 
 Simple clock app that is large than the windows default. Customisations (font color, background color/tint, window mode, always ontop)
 
--*When not in windowed mode to exit double click on the time* <br><br>
+-*When not in windowed mode to exit double click on the time* <br>
 -*Customisation is done through editing the Desktop Clock.exe.config file*<br> 
 
 Requirements:<br>
