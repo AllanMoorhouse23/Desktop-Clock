@@ -8,7 +8,7 @@ Simple clock app that is larger than the windows default. Customisations (font c
 -*When not in windowed mode to exit double click on the time* <br>
 -*Customisation is done through editing the Desktop Clock.exe.config file*<br> 
 
-**Requirements:**<br>
+**_Requirements:_**<br>
 *Must have Comfortaa font installed: https://fonts.google.com/specimen/Comfortaa*
 
 <p align="center">
